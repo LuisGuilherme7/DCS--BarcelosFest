@@ -1,0 +1,80 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="barcelosfest.pt" resolutions="1x" timestamp="1515066589591">
+  <folder name="css">
+    <file name="site_global.css" crc="4078550479"/>
+    <file name="master_a-master.css" crc="333157028" ref="woodkid:informações:robot-koch:contactos:the-xx:index:bastille:cartaz"/>
+    <file name="woodkid.css" crc="40345543" ref="woodkid"/>
+    <file name="informa__es.css" crc="4228078828" ref="informações"/>
+    <file name="robot-koch.css" crc="451157206" ref="robot-koch"/>
+    <file name="contactos.css" crc="3985454781" ref="contactos"/>
+    <file name="the-xx.css" crc="4108424566" ref="the-xx"/>
+    <file name="index.css" crc="114998239" ref="index"/>
+    <file name="bastille.css" crc="406604928" ref="bastille"/>
+    <file name="cartaz.css" crc="368327124" ref="cartaz"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="museutils.js" crc="3790713428" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="whatinput.js" crc="84559013" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:informações"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="pie.js" crc="3827607177" ref="index:cartaz:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+  </folder>
+  <folder name="images">
+    <file name="concert.jpg" crc="217964876" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u359.png" crc="100310945" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u359-r.png" crc="4267894369" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u401.png" crc="3849829530" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u401-r.png" crc="4170058696" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u424.png" crc="204695080" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u424-r.png" crc="124961336" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u445.png" crc="110624150" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u445-r.png" crc="3857199849" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u466.png" crc="4071863039" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u466-r.png" crc="119153321" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u270-4.png" crc="166389673" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="logo.png" crc="378704168" seo="true" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u719-4.png" crc="4066867022" ref="index"/>
+    <file name="u725-4.png" crc="4056129802" ref="index"/>
+    <file name="robotkoch-u739-fr.jpg" crc="460840376" ref="index:cartaz"/>
+    <file name="u1006-4.png" crc="3876131088" ref="index"/>
+    <file name="u734-4.png" crc="453375129" ref="index"/>
+    <file name="woodkid-u742-fr.jpg" crc="4129069256" ref="index:cartaz"/>
+    <file name="the xx-u801-fr.jpg" crc="3960217523" ref="index:cartaz"/>
+    <file name="u1007-4.png" crc="3976276085" ref="index"/>
+    <file name="u1008-4.png" crc="194717910" ref="index"/>
+    <file name="bastille-u804-fr.jpg" crc="4150739541" ref="index:cartaz"/>
+    <file name="bastille-u804-r-fr.png" crc="4207289424" ref="index:cartaz"/>
+    <file name="u1009-4.png" crc="88065001" ref="index"/>
+    <file name="u558-4.png" crc="385131348" ref="index:cartaz:informações:contactos:robot-koch:woodkid:the-xx:bastille"/>
+    <file name="u866-4.png" crc="177770385" ref="cartaz"/>
+    <file name="u881-4.png" crc="3876131088" ref="cartaz"/>
+    <file name="u884-4.png" crc="3976276085" ref="cartaz"/>
+    <file name="u887-4.png" crc="194717910" ref="cartaz"/>
+    <file name="u890-4.png" crc="88065001" ref="cartaz"/>
+    <file name="u989-4.png" crc="3869767150" ref="informações"/>
+    <file name="concert2.jpg" crc="106303685" ref="informações"/>
+    <file name="u1066-4.png" crc="477555385" ref="contactos"/>
+    <file name="u1074-4.png" crc="38264449" ref="contactos"/>
+    <file name="u1185-4.png" crc="297007785" ref="robot-koch"/>
+    <file name="robotkoch.jpg" crc="4146142835" ref="robot-koch"/>
+    <file name="u1194-4.png" crc="4191027167" ref="woodkid"/>
+    <file name="woodkid-ieu1195-fr.png" crc="40327114" ref="woodkid"/>
+    <file name="woodkid.jpg" crc="487925170" ref="woodkid"/>
+    <file name="u1203-4.png" crc="520653058" ref="the-xx"/>
+    <file name="the xx.jpg" crc="382409370" ref="the-xx"/>
+    <file name="u1212-4.png" crc="4024980916" ref="bastille"/>
+    <file name="bastille-ieu1213-fr.png" crc="3840136866" ref="bastille"/>
+    <file name="bastille.jpg" crc="3897504218" ref="bastille"/>
+  </folder>
+  <file name="index.html" crc="3969542347" seo="true" mt="1515066583223" redirect="true"/>
+  <file name="cartaz.html" crc="109753637" seo="true" mt="1515066583225" redirect="true"/>
+  <file name="informações.html" crc="3817656300" seo="true" mt="1515066583379" redirect="true"/>
+  <file name="contactos.html" crc="3962686577" seo="true" mt="1515066582993" redirect="true"/>
+  <file name="robot-koch.html" crc="4228527490" seo="true" mt="1515066583083" redirect="true"/>
+  <file name="woodkid.html" crc="3906622035" seo="true" mt="1515066583158" redirect="true"/>
+  <file name="the-xx.html" crc="407130627" seo="true" mt="1515066583220" redirect="true"/>
+  <file name="bastille.html" crc="178542492" seo="true" mt="1515066582993" redirect="true"/>
+</manifest>
