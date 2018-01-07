@@ -1,0 +1,151 @@
+body{
+        margin:0px;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: top;
+        font-family: arial;
+
+}
+.header {
+    border-top:2px solid #FFD700;
+}
+
+
+.btn-success{
+
+    background-color: #4CAF50; /* Green */
+    border: none ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 16px;
+    }
+
+header .header-content {
+    text-align: center;
+}
+.header-content-inner h1{
+    padding-top: 70px;
+    text-align: center;
+    font-family: arial;
+    color: Black;
+    font-size: 650%
+}
+.header-content-inner p{
+  font-family: arial;
+  color: Black;
+  font-size: 150%
+}
+
+ h1{
+     text-align: center;
+     color: red;
+     margin:10px;
+     padding-top: 30px;
+     padding-left: 500px
+
+}
+h2{
+      float:left;
+      text-decoration:none;
+      text-align: left;
+      color: red;
+      padding-top: 30px;
+}
+h4{
+  padding-top: 70px;
+  text-align: center;
+  font-family: arial;
+  color: red;
+  font-size: 350%
+}
+
+
+.email{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.assunto{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h5{
+padding-left: 500px;
+}
+
+.logo{
+  width: 300px;
+  height: 100px;
+}
+.search{
+  padding-left: 200px;
+  padding-right: 100px;
+}
+.btn-default{
+  background-color: #4CAF50; /* Green */
+  border: none ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  border-radius: 16px;
+}
+
+.btn-link{
+  padding-left: 200px;
+  position: fixed;
+  top: auto;
+
+}
+
+h6{
+  text-align: center;
+  color: red;
+  margin:0px;
+  padding-top: 30px;
+
+}
+.categ{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.btn-primary{
+  background-color: #4CAF50; /* Green */
+  border: none ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 16px;
+}
+.rr{
+
+  padding-left: 50px;
+  margin: 50px;
+
+}
+
+.nnn{
+  padding-left: 40%;
+}
+
+.form1{
+  padding-left: 50px;
+}
+
+.jogoss{
+   text-align: center;
+   padding-top: 40px;
+}
+.imm{
+   text-align: center;
+   padding-top: 20px;
+}
+.cc{
+
+   text-align: center;
+}
